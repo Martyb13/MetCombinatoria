@@ -24,7 +24,6 @@ namespace EquazioniLibrary
                 risultato = 0;
             }
             return risultato;
-
         }
     }
 }
